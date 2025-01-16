@@ -2,5 +2,5 @@
 
 **Improvement needed:**
 
- - [ ] POM
+ - [ V ] POM
  - [ ] BDD
